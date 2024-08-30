@@ -1,6 +1,5 @@
 # Coffee Shop Management System
 
-![Coffee Shop Logo](https://example.com/coffee-shop-logo.png) 
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -82,4 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Zakaria Dahir Salad**  
 Information Technology Student, Simad University  
 Oracle Course Project
-```
+
