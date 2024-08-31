@@ -79,6 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 **Zakaria Dahir Salad**  
-Information Technology Student, Simad University  
-Oracle Course Project
+Information Technology Student
+Full Stack Developer
+Oracle & PHP Project
 
